@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bonjour there 👋
 
 <!--
-**IdahK/IdahK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am Idah, a backend developer 👩🏽‍💻 working remotely since 2020**
 
-Here are some ideas to get you started:
+Here are facts about me to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a new exciting project.Stay tuned ..
+- 🤩 I'm very passionate about personal and financial wellbeing, and productivity.
+- 🌱 I’m currently learning how to handle and generate files/reports using Java + Spring
+- 👯 I’m looking to collaborate on any backend projects.I love learning anything new (good things, of course 😅)  under the sun 
+- 💬 Ask me about Java or Python
+- 📫 How to reach me: gakiidah73@gmail.com
+- ⚡ Fun fact (but also weird): If You Eat too Many Carrots, Your Skin Will/Might Turn orange 🍊 . 
 -->
