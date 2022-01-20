@@ -1,6 +1,6 @@
 ### Bonjour there 👋
 
-<!--
+
 **I am Idah, a backend developer 👩🏽‍💻 working remotely since 2020**
 
 Here are facts about me to get you started:
@@ -12,4 +12,3 @@ Here are facts about me to get you started:
 - 💬 Ask me about Java or Python
 - 📫 How to reach me: gakiidah73@gmail.com
 - ⚡ Fun fact (but also weird): If You Eat too Many Carrots, Your Skin Will/Might Turn orange 🍊 . 
--->
