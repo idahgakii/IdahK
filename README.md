@@ -25,6 +25,7 @@
             <td>
                 <img src="https://img.shields.io/badge/MySQL-42759C?style=for-the-badge&logo=mysql&logoColor=white" />
                 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+                <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
             </td>
             <td>
                 <img src="https://img.shields.io/badge/Python-F7F7F7?style=for-the-badge&logo=python&logoColor=3776AB" />
